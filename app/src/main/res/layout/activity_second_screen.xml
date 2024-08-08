@@ -45,10 +45,10 @@
         android:layout_below="@id/welcomeText"
         android:layout_marginHorizontal="16dp"
         android:layout_marginTop="4dp"
-        android:textStyle="bold"
         android:text="@string/str_username"
+        android:textColor="@color/Grey"
         android:textSize="28sp"
-
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/welcomeText" />
 
@@ -59,8 +59,8 @@
         android:layout_below="@id/userNameText"
         android:layout_margin="16dp"
         android:text="@string/str_selected_user_name"
+        android:textColor="@color/Grey"
         android:textSize="32sp"
-        android:textColor="@color/black"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -72,10 +72,10 @@
         style="@style/CustomButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/custom_button"
-        android:text="Choose a User"
         android:layout_marginHorizontal="24dp"
         android:layout_marginBottom="40dp"
+        android:background="@drawable/custom_button"
+        android:text="Choose a User"
         app:cornerRadius="32dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
