@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestSuitMedia</string>
+    <string name="email_not_valid">Email Not Valid</string>
+    <string name="str_palindrome">Palindrome</string>
+    <string name="str_username">Username</string>
+    <string name="str_check">Check</string>
+    <string name="str_next">Next</string>
+    <string name="ctn_suitmedia">Suitmedia</string>
+    <string name="desk_first">Input Your Username and try checking the palindrome.</string>
+    <string name="str_hello">Hello There!!!</string>
+    <string name="str_second_screen">Second Screen</string>
+    <string name="str_selected_user_name">Selected User Name</string>
+    <string name="str_welcome">Welcome</string>
+    <string name="str_third_screen">Third Screen</string>
+</resources>
